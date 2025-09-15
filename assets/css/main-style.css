@@ -60,7 +60,7 @@ html {
     font-weight: 500;
 }
 
-h2 {
+h1 {
     color: var(--pale-blue-color);
 }
 
@@ -113,7 +113,7 @@ h2 {
     }
 }
 
-.container .results .box h3 {
+.container .results .box h2 {
     font-weight: 700;
 }
 
@@ -162,7 +162,7 @@ h2 {
 }
 
 
-.container .summary .box h3 {
+.container .summary .box h2 {
     font-weight: 700;
     margin-bottom: 20px;
 }
@@ -176,7 +176,7 @@ h2 {
         margin: 30px auto;
     }
 
-    .container .summary .box h3 {
+    .container .summary .box h2 {
         margin-bottom: 10px;
     }
 }

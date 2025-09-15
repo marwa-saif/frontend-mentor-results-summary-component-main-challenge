@@ -60,9 +60,13 @@ html {
     font-weight: 500;
 }
 
+h1 {
+    color: var(--pale-blue-color);
+}
+
 .container {
     width: 700px;
-    margin: 100px auto;
+    margin: 300px auto;
     background-color: var(--white-color);
     /*text-align: center;*/
     display: flex;
